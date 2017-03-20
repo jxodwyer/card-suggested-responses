@@ -1,0 +1,13 @@
+.list {
+  margin-top: 0!important;
+}
+
+.item {
+  padding: 5px!important;
+  padding-left: 15px!important;
+  padding-right: 15px!important;
+}
+
+.left {
+  max-width: 190px;
+}

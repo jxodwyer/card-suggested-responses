@@ -1,0 +1,28 @@
+
+body {
+  font-weight: 100!important;
+  font-size: 12px!important;
+  font-family: 'Roboto', sans-serif;
+}
+.ui.card.mainCard {
+  width: 280px;
+  position: relative;
+  margin: 0 5px 10px 5px;
+  background-color: white;
+  border: 1px solid rgba(0,0,0,.13);
+  border-radius: 2px;
+  box-shadow: none;
+}
+.ui.header.cardHeader {
+  color: rgba(0,0,0,.64)!important;
+  font-size: 1em;
+  text-overflow: ellipsis;
+  font-weight: 400;
+}
+
+.lineBreak {
+  margin: 0;
+  padding: 0;
+  border-color: #dedede !important;
+  border-top: 0;
+}
